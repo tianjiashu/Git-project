@@ -7,5 +7,6 @@ public class git_demo {
 //        int[] num = new int[10];  不要
         System.out.println("hot-fix test");
         List<String> list = new ArrayList<>();
+        System.out.println("我要pull啦！！！");
     }
 }
